@@ -346,6 +346,8 @@ Problemas Identificados:
 ## Livro: UML essencial : um breve guia para linguagem padrão, autor Martin Fowler
 ### Disponível na biblioteca virtual.
 
+![Livro](https://github.com/agodoi/m04-semana08a/blob/main/imgs/UML%20Essencial.png)
+
 # Dinâmica em grupo
 
 Turma, seu grupo foi encarregado de evoluir um projeto IoT. O ESP32 precisa ficar acordado por 10s e hibernar por +10s.
