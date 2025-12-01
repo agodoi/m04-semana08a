@@ -343,6 +343,8 @@ Problemas Identificados:
 
 * Falta de Documentação e Comentários: o código não possui explicações suficientes, dificultando o entendimento.
 
+## Livro: UML essencial : um breve guia para linguagem padrão, autor Martin Fowler
+### Disponível na biblioteca virtual.
 
 # Dinâmica em grupo
 
